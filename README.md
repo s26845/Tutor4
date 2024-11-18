@@ -35,8 +35,9 @@ The dataset used for this project is the **Breast Cancer Wisconsin (Diagnostic) 
   - **Logistic Regression**: A simple and interpretable baseline model for binary classification.
   - **Random Forest**: An ensemble model that captures feature interactions and reduces overfitting.
   - **KNN (K-Nearest Neighbors)**: A non-parametric, distance-based model.
- 
-  - ## **Key Observations**
+    
+ ----
+ ## **Key Observations**
 
 ### Logistic Regression:
 - The best model in terms of **accuracy (97.37%)** and **F1-score (96.47%)**.
